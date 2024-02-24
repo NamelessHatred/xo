@@ -1,0 +1,15 @@
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.csproj.AssemblyReference.cache
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\MainWindow.g.cs
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\App.g.cs
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit_MarkupCompile.cache
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit_MarkupCompile.lref
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\bin\Debug\Thisshiit.exe.config
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\bin\Debug\Thisshiit.exe
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\bin\Debug\Thisshiit.pdb
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\MainWindow.baml
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.g.resources
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.Properties.Resources.resources
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.csproj.GenerateResource.cache
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.csproj.CoreCompileInputs.cache
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.exe
+C:\Users\mptr0\OneDrive\Desktop\П50-8-22\c++gayfurry\Thisshiit\Thisshiit\obj\Debug\Thisshiit.pdb
